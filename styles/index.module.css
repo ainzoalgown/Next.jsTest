@@ -1,0 +1,42 @@
+.main__title {
+    text-align: center;
+    margin-top: 20px;
+}
+.todo {
+    width: 400px;
+    padding-top: 20px;
+    margin: auto;
+    text-align: center;
+}
+.todo__add {
+    width: inherit;
+    display: flex;
+    justify-content: space-between;
+}
+.todo__list {
+    padding-top: 20px;
+}
+.todo__item {
+    display: flex;
+    width: inherit;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: #78d2ff;
+    background: rgb(27,42,117);
+    background: radial-gradient(circle, rgba(27,42,117,1) 12%, rgba(48,69,174,1) 87%, rgba(62,87,210,1) 100%, rgba(154,36,112,1) 100%);
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+.todo__delete {
+    padding: 3px;
+    cursor: pointer;
+    background-color: inherit;
+}
+.todo__delete:hover {
+    color: white;
+}
+.todo__item_title:hover {
+    color: #fff;
+    cursor: pointer;
+}

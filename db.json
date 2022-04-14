@@ -1,0 +1,7 @@
+{
+  "posts": [
+    {"id": 1, "title": "Пост про здоровье", "body":  "dadasdad axczxd zxc qwe"},
+    {"id": 2, "title": "Пост про JavaScript Post", "body":  "dadasdad axczxd zxc qwe"},
+    {"id": 3, "title": "Пост про отдых", "body":  "dadasdad axczxd zxc qwe"}
+  ]
+}
